@@ -380,3 +380,4 @@ Authorization: Bearer <token>
 - `405`: Method Not Allowed (허용되지 않은 메서드)
 - `500`: Internal Server Error (서버 오류)
 
+
